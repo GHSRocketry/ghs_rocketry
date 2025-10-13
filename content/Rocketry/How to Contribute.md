@@ -1,0 +1,2 @@
+To contribute to this Wiki, simply write pages that contribute to the team's experience and ability.
+If you want to be acreddited, just write a `- [your name]` after your page is done. You can edit other pages, too, allowing hyperlinking and a beautiful database of knowledge. Good luck!
