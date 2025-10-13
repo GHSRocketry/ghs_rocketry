@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Atom",
+  "monospaceFontFamily": "Fira Code",
+  "accentColor": "",
+  "textFontFamily": "Charter",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "fira",
+    "zed"
+  ],
+  "interfaceFontFamily": "Zed Sans"
+}

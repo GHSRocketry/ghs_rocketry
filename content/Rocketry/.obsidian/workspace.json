@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "2f38c85035f4ced4",
+    "type": "split",
+    "children": [
+      {
+        "id": "df383d3181f92944",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b154a08e8b0f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft Logging/Minecraft to Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Minecraft to Do"
+            }
+          },
+          {
+            "id": "cbd75d3bced02e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anvil Mechanics Notes/Anvil Mechanics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anvil Mechanics"
+            }
+          },
+          {
+            "id": "d74acbdad437abd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdd08016e1f3bd6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0317d5c078c8c35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af108d7b88a39934",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2a24962891bfb0e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Clubs",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d3afc93beedeffb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.50271224975586
+  },
+  "right": {
+    "id": "32fd05f0b6cf0640",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5e7a09f0f6f41ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a72a1c27359d161",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "APUSH Learning/Conventions/APUSH Formalities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for APUSH Formalities"
+            }
+          },
+          {
+            "id": "51bfaf35ca8b0b65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "APUSH Learning/Conventions/APUSH Formalities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from APUSH Formalities"
+            }
+          },
+          {
+            "id": "46013193eaf9a1c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54c39fde8f7d3d0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "APUSH Learning/Conventions/APUSH Formalities.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of APUSH Formalities"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d74acbdad437abd8",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "Anvil Mechanics Video Script.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Adam and EW Consideration.md",
+    "Cleared of School.md",
+    "Birds.md",
+    "Anvil Mechanics Notes/Anvil Mechanics.md",
+    "Minecraft Logging/Minecraft to Do.md",
+    "Nimble Designs.md",
+    "Complete/APUSH Reflection of A.md",
+    "Current Thoughts 2025-Feb-2.md",
+    "Backup.md",
+    "Reading Test.md",
+    "Minecraft Logging/Visualizing the Minecraft Storyline.md",
+    "Minecraft Logging/Progress in the Grind of Minecraft.md",
+    "Minecraft Logging",
+    "After Waking Up/After Waking Up.md",
+    "After Waking Up/IMG_5883.jpeg",
+    "After Waking Up",
+    "Untitled",
+    "After Waking Up.md",
+    "After Waking Upp.md",
+    "So to Sleep.md",
+    "The New Anvils.md",
+    "Anvil Mechanics Notes/Pasted image 20250218033338.png",
+    "Anvil Mechanics Notes",
+    "Minecraft to Do.md",
+    "SAT Notes.md",
+    "The Learning Method.md",
+    "Recent Ideas.md",
+    "Anvil Charter of Home Sector.md",
+    "Recent School Movements/RP School Additions/School Infiltration Plan Documents",
+    "Recent School Movements/Rebuilding the School DL",
+    "Recent School Movements/RP School Additions",
+    "Recent School Movements",
+    "Anvil Charter",
+    "Fronts/Half-Exam Work Enzymes",
+    "Untitled.canvas"
+  ]
+}
