@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df383d3181f92944",
+        "id": "c4d10ffd99d4fe87",
         "type": "tabs",
         "children": [
           {
-            "id": "04eae9f3057b813d",
+            "id": "f36b3a56ff5df8b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,8 +161,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04eae9f3057b813d",
+  "active": "af108d7b88a39934",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Experience/LD/CAD.md",
+    "Experience/LD",
+    "Resources/Meeting Locations/David's House.md",
+    "Resources/Meeting Locations/Durham Launch.md",
+    "Resources/Meeting Locations/Longo Launch.md",
+    "People/Board Leaders/Ashwin.md",
+    "People/Board Leaders/Aaron.md",
+    "People/Board Leaders/Jesse.md",
+    "Resources/Leadership Roles.md",
+    "People/Board Leaders/David.md",
+    "People/Board Leaders/Daniel.md",
+    "People/Board Leaders/Everett.md",
+    "People/Board Leaders/Mason.md",
+    "Archives/People/Farhan.md",
+    "Archives/People/Connor.md",
+    "Archives/People/Russel.md",
+    "People/Members",
+    "People/Board Leaders",
+    "People",
     "Introduction.md",
     "Skibidi.md",
     "Untitled 1.md",
@@ -173,34 +193,14 @@
     "Birds.md",
     "Anvil Mechanics Notes/Anvil Mechanics.md",
     "Minecraft Logging/Minecraft to Do.md",
-    "Nimble Designs.md",
-    "Complete/APUSH Reflection of A.md",
-    "Current Thoughts 2025-Feb-2.md",
-    "Backup.md",
-    "Reading Test.md",
-    "Minecraft Logging/Visualizing the Minecraft Storyline.md",
-    "Minecraft Logging/Progress in the Grind of Minecraft.md",
     "Minecraft Logging",
-    "After Waking Up/After Waking Up.md",
     "After Waking Up/IMG_5883.jpeg",
     "After Waking Up",
-    "Untitled",
-    "After Waking Up.md",
-    "After Waking Upp.md",
-    "So to Sleep.md",
-    "The New Anvils.md",
     "Anvil Mechanics Notes/Pasted image 20250218033338.png",
     "Anvil Mechanics Notes",
-    "Minecraft to Do.md",
-    "SAT Notes.md",
-    "The Learning Method.md",
-    "Recent Ideas.md",
     "Recent School Movements/RP School Additions/School Infiltration Plan Documents",
     "Recent School Movements/Rebuilding the School DL",
     "Recent School Movements/RP School Additions",
-    "Recent School Movements",
-    "Anvil Charter",
-    "Fronts/Half-Exam Work Enzymes",
     "Untitled.canvas"
   ]
 }

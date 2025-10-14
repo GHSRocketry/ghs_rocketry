@@ -1,1 +1,1 @@
-test
+Please read [[Rocketry/Welcome]] to get started.
