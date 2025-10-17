@@ -1,4 +1,4 @@
-These are the leadership roles for the Rocketry club. These are the definitions based on what [[Russel]] gave during the end of 2025.
+These are the leadership roles for the Rocketry club. These are the definitions based on what [[Russell]] gave during the end of 2025.
 # President (P)
 commendable leadership skills and a leading, winning vision for the 2026 year. must be able to handle people on the most fundamental level. do not take this position lightly. 1st host
 

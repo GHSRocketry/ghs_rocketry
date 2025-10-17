@@ -1,0 +1,1 @@
+Russell was the President of Rocketry club during 2024-2025. He is a sigma professional rock climber.

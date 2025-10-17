@@ -1,0 +1,1 @@
+Farhan was a DP leader who came any chance he got. He founded the Rocketry GitHub and set the stage for lots of programming that would come. He was also Programming captain of the Robotics team when he graduated in the year 2024-2025.
