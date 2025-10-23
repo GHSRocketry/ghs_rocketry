@@ -1,0 +1,2 @@
+- He sells motors.
+- We bought F32 from him in early 2025.
