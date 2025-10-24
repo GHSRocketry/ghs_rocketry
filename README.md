@@ -1,3 +1,3 @@
 # Welcome
 
-Please see the Wiki [[content/Rocketry/Welcome.md]]
+Please see the [Wiki](https://ghsrocketry.github.io/ghs_rocketry/)
